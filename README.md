@@ -1,2 +1,2 @@
 # jl-log
-qu ⠶ reed ⠶ log ⠶ [jl](https://github.com/qu-reeds/jl-log/wiki)
+qu ⠶ reed ⠶ log ⠶ [jul](https://github.com/qu-reeds/jul-log/wiki)
